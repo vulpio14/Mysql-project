@@ -16,5 +16,5 @@ Series of queries for IMBD database
 13.	Some directors are actors/actresses too. Find all such director first and last names, the movies they acted in and their roles.
 14.	The genre of movie that appears the most in the database.
 15.	The names of those actors/actresses who had more than one role in the same movie (like Robin Williams in Mrs. Doubtfire).
-16.	The top 25 movie names (hint: look up the limit option).
+16.	The top 25 movie names
 
